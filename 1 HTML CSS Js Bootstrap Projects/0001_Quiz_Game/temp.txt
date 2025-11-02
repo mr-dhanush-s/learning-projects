@@ -1,0 +1,144 @@
+DETAILED Timestamps 
+00:05 - Build 15 beginner-friendly projects using HTML, CSS, and JavaScript in 10 hours.
+02:19 - Install essential tools and preview the quiz application.
+06:32 - Setting up the HTML structure for the quiz application.
+08:44 - Building a dynamic quiz interface with HTML, CSS, and JavaScript.
+13:38 - Creating the result screen for the quiz project.
+16:06 - Introduction to basic CSS reset and box-sizing property.
+20:12 - Styling a container with CSS properties for layout and appearance.
+22:25 - Managing active classes for screen transitions in HTML and CSS.
+26:52 - Styling buttons with colors, borders, and hover effects in CSS.
+29:06 - Create a colored progress bar using CSS and JavaScript.
+33:40 - Enhancing UI with transitions and responsive design.
+35:47 - Implement responsive design changes for screens below 500 pixels.
+40:04 - Initializing quiz variables and starting the quiz process.
+42:19 - Implement quiz start and reset functions in JavaScript.
+46:45 - Creating dynamic buttons for quiz answers using JavaScript.
+48:57 - Implementing data sets for button interactions in JavaScript.
+53:06 - Implement feedback mechanism and scoring in a quiz application.
+55:26 - Transition from quiz to results display using JavaScript methods.
+59:35 - Understanding the necessity of converting HTML collections to arrays.
+1:01:40 - Resetting the score variable is essential for quiz functionality.
+1:06:00 - Creating a color palette with hex values and copy buttons.
+1:08:14 - Introduction to CSS basics including resets and font integration.
+1:12:23 - Creating a styled container using CSS Flexbox and positioning.
+1:14:41 - Centering elements using CSS transforms and positioning.
+1:19:04 - Implementing hover effects and grid layout for a color palette.
+1:21:24 - Implemented responsive design with CSS flexbox and media queries.
+1:26:01 - Creating a function to generate random hex color values.
+1:28:16 - Understanding color index limits and UI updates in JavaScript.
+1:32:31 - Implementing random color generation and clipboard copy functionality.
+1:34:42 - Copying text to clipboard with success feedback.
+1:38:57 - Implementing dynamic color copying functionality with JavaScript.
+1:41:14 - Understanding event targeting and dynamic element selection in JavaScript.
+1:45:11 - Creating a draggable to-do list with HTML elements.
+1:47:09 - Creating a draggable task manager with HTML, CSS, and JavaScript.
+1:51:31 - Creating a responsive card with CSS styles and effects.
+1:53:41 - Adding smooth transitions to CSS effects.
+1:58:01 - Implementing drag-and-drop functionality with event listeners.
+2:00:10 - Implementing drag-and-drop functionality with event handling.
+2:04:25 - Introduction to HTML Drag and Drop API and troubleshooting errors.
+2:06:22 - Building a responsive expense tracker with local storage.
+2:10:23 - Building the transaction and form containers for expense tracking.
+2:12:35 - Creating a basic form structure with HTML best practices.
+2:17:00 - Guidelines for styling elements in CSS.
+2:19:21 - Utilizing CSS grid and debugging tricks enhances layout design.
+2:23:47 - Styling transaction container and list with CSS.
+2:25:56 - Customize scroll bars with CSS for better UX.
+2:30:06 - Implementing border styles and slide-in animation using CSS.
+2:32:12 - Implementing hover effects and delete button visibility in the transaction UI.
+2:36:11 - Styling form inputs and buttons with hover and active effects.
+2:38:08 - Setting up the transaction handling in JavaScript for an expense tracker.
+2:42:19 - Creating and managing transactions with local storage in JavaScript.
+2:44:17 - Reset and sort transaction list for UI display.
+2:48:37 - Develop functionality to remove transactions and update UI components.
+2:50:38 - Calculating total balance using the reduce method on an array of transactions.
+2:54:58 - Implementing local storage for transaction management and currency formatting.
+2:57:28 - Implement currency formatting and transaction removal functionality.
+3:01:38 - Build a bookmark saver application using HTML, CSS, and JavaScript.
+3:03:48 - Creating a bookmark UI with HTML, CSS, and JavaScript.
+3:08:21 - Styling bookmarks list with CSS for hover and transition effects.
+3:10:48 - Styling buttons with CSS and preparing for JavaScript interactions.
+3:14:54 - Implementing URL validation and bookmark management in JavaScript.
+3:17:10 - Create dynamic list items with links and remove buttons in JavaScript.
+3:21:26 - Implementing bookmark loading and removal in the UI.
+3:23:42 - Creating a bookmark saver project with form validations.
+3:27:51 - Creating a user registration form with HTML elements.
+3:30:11 - Create a visually appealing and centered container with CSS styles.
+3:34:35 - Dynamic button styling using JavaScript enhances user experience.
+3:36:42 - Implementing form validation using CSS and JavaScript.
+3:40:50 - Formatting input error messages for better clarity.
+3:42:56 - Handling error and success feedback in form validation.
+3:47:16 - Creating password validation methods in JavaScript.
+3:49:32 - Using regular expressions to validate email addresses efficiently.
+3:53:55 - Debugging form validation and error handling in JavaScript.
+3:56:05 - Completion of the form validator project and introduction to a password generator app.
+4:00:04 - Creating a password length adjustment feature in a web application.
+4:02:16 - Creating options for password customization in an HTML form.
+4:06:21 - Setting up CSS with Google Fonts and applying basic styling.
+4:08:29 - Utilize CSS variables for efficient color updates across multiple instances.
+4:12:32 - Styling an H1 with pseudo-elements for decoration.
+4:14:35 - Styling elements using CSS for better UI design.
+4:19:05 - Styling options with padding, margin, and display properties.
+4:21:04 - Customizing input elements with CSS for better visibility.
+4:25:12 - Adding transitions and styling to form elements in CSS.
+4:27:16 - Enhancing button and text styles with CSS transitions and layout adjustments.
+4:31:41 - Setting up JavaScript for dynamic password generator functionality.
+4:33:44 - Creating a password generator with user-selected options.
+4:38:05 - Constructing a dynamic password string with various character types.
+4:40:16 - Generate a random password and assess its strength.
+4:44:18 - Implementing password strength evaluation with score adjustments.
+4:46:27 - Implementing a dynamic password strength meter.
+4:50:41 - Implement dynamic password generation and copy functionality.
+4:52:41 - Update button icon and color for a copy function using JavaScript.
+4:56:55 - Integrating Font Awesome icons into a to-do list application.
+4:59:18 - Creating a filterable to-do list interface with dynamic elements.
+More in the reply of this comment
+
+
+
+
+links
+
+
+    
+  
+
+    
+    
+
+    
+  
+232,959 views  May 10, 2025  #css #html #coding
+Let's build 15 Awesome Projects with  HTML, CSS & JS. It's completely free but you have to subscribe 🤨
+My 100+ Hours Course: https://dub.sh/udemy-discount
+
+
+📚 Resources:
+Source Code: https://github.com/burakorkmez/html-c... (Give it a star ✨)
+Github Gist: https://gist.github.com/burakorkmez/e...
+Diagrams: https://app.eraser.io/workspace/8yoDl...
+
+🔗 Links:
+Join discord to ask your questions:   / discord  
+Follow me on X: https://x.com/codesistency
+
+
+Timestamps:
+00:00:00 - Intro
+00:03:53 - Project 1: Quiz Game
+01:02:21 - Project 2: Color Palette Generator
+01:42:46 - Project 3: Drag & Drop Board
+02:06:18 - Project 4: Expense Tracker
+03:01:33 - Project 5: Bookmark Saver
+03:24:34 - Project 6: Form Validator
+03:56:29 - Project 7: Password Generator
+04:54:38 - Project 8: Todo App
+05:53:17 - Project 9: Contact Form
+06:18:34 - Project 10: Pricing Cards
+06:59:13 - Project 11: Team Members Showcase
+07:31:50 - Project 12: Recipe Finder
+08:23:16 - Project 13: Currency Converter
+08:48:33 - Project 14: Github Finder
+09:39:36 - Project 15: Custom 404 Page Design
+09:46:07 - Project 16: Newsletter Signup Design
