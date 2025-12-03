@@ -118,10 +118,8 @@ function showQuestion(){
         let randNum = Math.floor(Math.random()*4)
         if(!(arrNum.includes(randNum))){
             arrNum.push(randNum)
-            n--
+            n--;
         }
-        if(n>=4)
-            alert("array index out of bound for rand array")
     }
     console.log(arrNum);
     let tempAnswers = []
@@ -129,6 +127,7 @@ function showQuestion(){
     tempAnswers.push(currentQuestion.answers[arrNum[1]])
     tempAnswers.push(currentQuestion.answers[arrNum[2]])
     tempAnswers.push(currentQuestion.answers[arrNum[3]])
+
     tempAnswers.forEach(answer =>{
         const button = document.createElement("button")
         button.textContent = answer.text
