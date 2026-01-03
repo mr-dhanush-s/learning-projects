@@ -1,4 +1,4 @@
-
+# README :)
 
 
 This is the color palette generator website. I have created this by watching the youtube tutorial.

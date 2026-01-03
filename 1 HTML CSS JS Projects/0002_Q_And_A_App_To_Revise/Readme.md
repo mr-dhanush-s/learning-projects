@@ -1,8 +1,14 @@
+# README :)
+**live link** -> **[click here]()**
 
 
 I'm have created the **Question and Answer** app using HTML, CSS and Javascript by my own to test my skills and this was created by my own.
 
-**live link** -> **[click here]()**
+- I use this app to revise the concepts when ever I learn new things
+- In this project, I feed the question and answer in an Ojbects of array.
+- Incase I need to shuffle the questions then I use `Math.random` function
+
+
 
 
 ### About this Quiz App
